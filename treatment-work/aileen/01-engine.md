@@ -96,3 +96,23 @@ James, a village teacher who keeps promising his starving people "one more year"
 
 ### Next
 Stage 2: ending. Needs the writer's veto or yes on Lukas, the "door vs wall" idea, and why Aileen answers to James.
+
+---
+## WRITER'S LOGLINE (owns this; supersedes the one above where they differ)
+James, a village teacher who keeps promising his starving people "one more year", until they become independent and grow their own food, to live without Elysium's help, has to enter the digital afterlife to track down his pregnant wife, and win back the supplies that were cut.
+
+As he enters the menacing company, he is tasked to find Mira who has disappeared within the system, with the miraculous new-born daughter, who can change and control the Elysium, and threatens Lukas life work.
+
+### What changed
+- Lukas is the opponent who SENDS James. He wants Aileen found because she threatens his life's work. He does not need her as a wall-builder (my earlier idea is dropped).
+- Mira has disappeared WITH the newborn. James is hunting the people he loves on behalf of the man who wants them stopped. Orpheus working for Hades.
+
+### Tightened version [PROPOSAL, same content]
+James, a village teacher who keeps promising his starving people "one more year" until they can feed themselves without Elysium, enters the digital afterlife to find his pregnant wife Mira, who has vanished inside the system. Elysium's founder Lukas will restore the supplies if James brings her back, because her newborn daughter Aileen can reshape Elysium and threatens his life's work. James must find them first and decide whom he is really working for.
+
+### Soft spots to fix (open)
+1. "Can change and control Elysium": one concrete power needed. [PROPOSAL: she can hold her edge inside the Ocean and open the Anchor, so anyone can walk out.]
+2. "Menacing company": bible says sincere mission. Menace should come from Lukas and Anton's kindness, not cartoon evil.
+3. Newborn vs grown (old draft: grown and mute). Pick one. [PROPOSAL: time runs faster inside, she is born and grows within weeks.]
+4. Why Lukas needs James: [PROPOSAL: Mira hides where Elysium cannot look; only a person she trusts can cross to her willingly. Consent rule.]
+5. What Lukas loses: his life's work, and Sissi, whom he holds back by keeping the Anchor closed.
