@@ -3,7 +3,7 @@
 ## Materials read
 - `V10 - Aileen.fountain`: ~18 scenes. Opening chamber scene, then the Village through to James entering the Elysium gate. Reads as Act 1 only.
 - `The Story Bible.md`: world canon (Field, Quale, Anchor, Ocean, Elysium as mission, timeline, terms). No plot beyond the script.
-- Older files describing the whole story: NOT uploaded yet. Only the one-line summary from the writer: a father travels to the digital underworld to find his daughter, said to be the digital messiah, to save the uploaded souls.
+- Older treatment (pasted in chat, 4 acts): read, see 'Older treatment' below.
 
 ## Spark (proposed, to confirm)
 A man walks into a heaven that is quietly dissolving the people inside it, to bring back one person, in a world where the dead already outvote the living.
@@ -45,3 +45,28 @@ Variant 1 assumes a daughter who is already inside and a salvation mission. Vari
 3. What does "save the souls" mean concretely: stop the merging, break the Anchor, bring people back, or accept the Ocean?
 4. Do you have an ending, even a rough one? What happens to James?
 5. Please upload the older files, or paste the full old synopsis. Also: who is the synopsis for and how long (1 page?).
+
+## Older treatment (pasted): what it adds
+**Answers to earlier questions**
+- Aileen = Mira's miraculous child (prophetic dream, "mother of a saviour"). Uploaded with Mira, found inside Elysium already grown, mute, child-like. She is the "messiah".
+- Old goal chain: supplies and Mira -> Mira gone -> find her (for Lucas) -> hidden digital "Village" -> protect Aileen -> climb to the door -> The Fields -> Aileen walks into the ocean, qualia released, Elysium and Lucas collapse.
+- Old ending: James wakes in the compound, Maria "resurrected", James goes home and builds greenhouses.
+
+**Old beats worth keeping (writer-owned)**
+James in Elysium as Orpheus; Bardo hotel of doors; Cypher; the hidden layer; Mira dead a second time; Anton jacking in; the mountain with a door; the ocean; return to greenhouses.
+
+**Conflicts with the new files (writer says some of the new MUST change)**
+| # | Old | New (script V10 + bible) | Pressure |
+|---|---|---|---|
+| 1 | Bardo (hotel of rooms) | Bible: Bardo cut, replaced by the Anchor (a machine, no place) | Where does James go inside? |
+| 2 | Elysium harvests qualia toward Singularity; Lucas is the Singularity | Bible: sincere mission, no harvesting; Ocean emergent, nobody designed it; Lukas is a founder whose status is open | Villain engine |
+| 3 | The Fields = prison, Aileen frees souls | Bible: merging feels good, may be evolution OR annihilation, never answer cheaply | Climax meaning |
+| 4 | Anton takes by force, shoots, kills Mira | Bible: consent is technical, Elysium never takes by force | Anton's teeth |
+| 5 | Hidden digital "The Village" | The real village is already "the Village" | Name clash |
+| 6 | Mira vanishes with 11 uploads from the Bardo | Script: Mira volunteers pregnant, leaves a page, "Read it" | Her plan and the page |
+| 7 | Maria "resurrected"; Anton killed with no setup; Aileen walks in alone | Gauntlet: victory handed over, climax not forced by protagonist | James passive in Act 3-4 |
+| 8 | Lucas appears Act 2 on a screen | Script: Lukas only in the prologue, ~40 yrs earlier | Is Lukas alive? |
+| 9 | Mira's dream is the child's origin | Script: she says it in sleep, James hears "running away" | Child = gift or burden? |
+
+## Open decisions (carry to the writer)
+Fold in with the blocking questions above. Updated list is in the chat.
