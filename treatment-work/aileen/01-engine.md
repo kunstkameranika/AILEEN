@@ -116,3 +116,34 @@ James, a village teacher who keeps promising his starving people "one more year"
 3. Newborn vs grown (old draft: grown and mute). Pick one. [PROPOSAL: time runs faster inside, she is born and grows within weeks.]
 4. Why Lukas needs James: [PROPOSAL: Mira hides where Elysium cannot look; only a person she trusts can cross to her willingly. Consent rule.]
 5. What Lukas loses: his life's work, and Sissi, whom he holds back by keeping the Anchor closed.
+
+---
+## DECISIONS (writer)
+- Aileen's power: can hold her edge in the Ocean and open the Anchor so anyone can walk out. AGREED.
+- Time runs faster inside; Aileen is born and grows within weeks. AGREED.
+- Lukas needs James: Mira hides where Elysium cannot look; only someone she trusts can cross to her willingly. AGREED.
+  The hidden place needs a HIGH CONCEPT that makes Act 2 a page-turner (Hail Mary / Resident Evil / Scott Pilgrim model).
+- Menace of the company: OPEN. The bible may be ignored or rewritten.
+
+## ACT 2 HIGH CONCEPT: three options [PROPOSAL]
+
+### 1. "Seven Doors" (Scott Pilgrim / game levels)
+The hidden place is guarded by seven holdouts, anchored people who kept their edge and hid Mira. To reach her James must pass each one. Each tests one human thing (grief, hunger, faith, memory, shame, desire, love). Lukas's tracker is behind him.
+- Pitch: "Orpheus as a boss-rush."
+- Strength: clear structure, each level a set piece.
+- Risk: arbitrary. The seven are rules, not consequences.
+
+### 2. "Every Door Costs a Memory" (Hail Mary / the descent)
+Hidden place = the deep Ocean, layered like a descent. To pass each layer James must pay with a memory (the currency of a Quale). The deeper he goes, the closer he gets to Mira and Aileen, and the less he remembers why. He keeps a notebook and pencil tags (the jar tags from the script) to remember. Clock: the 40-day anchoring runs on Aileen, who grows fast (days inside = hours outside). On day 40 she is either free or absorbed.
+- Pitch: "Hail Mary meets Orpheus: the deeper he goes, the less he knows why he went."
+- Strength: every scene is a puzzle with a price. The ending sacrifice (he gives himself) is the same rule, scaled up. Fits the Village's tags and ledgers.
+- Risk: memory loss must be visible, not just told.
+
+### 3. "The Hunt" (Resident Evil / chase)
+The hidden place shifts every few hours. Two hunters enter: James for Mira, Anton for Lukas. Whoever reaches Aileen first wins. Pure chase, no puzzle. Aileen is being protected by the people Mira hid with.
+- Pitch: "A race to a child in a world that rearranges itself."
+- Strength: simplest, fastest.
+- Risk: James is passive-reactive, and Anton becomes the main engine.
+
+### Recommendation
+Option 2, with the 40-day clock. It fuses premise and theme: the hero pays in selfhood to find the beloved, and that sets up the final sacrifice.
