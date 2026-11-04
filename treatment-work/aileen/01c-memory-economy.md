@@ -1,5 +1,7 @@
 # AILEEN: Act 2 high concept, combined (private)
 
+> SHELVED by writer. Memory-as-currency will not be used. See 01d-the-hunt.md.
+
 **Pitch:** Orpheus in a descent where every door costs a memory, with the villain's man chasing him down. "Eternal Sunshine in reverse: he erases himself to reach her."
 
 ## Core rules (must stay simple)
